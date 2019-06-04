@@ -1661,7 +1661,8 @@
                 "filename": "netappfiles_preview-0.3.1-py2.py3-none-any.whl",
                 "metadata": {
                     "azext.isPreview": true,
-                    "azext.minCliCoreVersion": "2.0.66",
+                    "azext.maxCliCoreVersion": "2.0.66",
+                    "azext.minCliCoreVersion": "2.0.56",
                     "classifiers": [
                         "Development Status :: 4 - Beta",
                         "Intended Audience :: Developers",
@@ -1707,7 +1708,7 @@
                     "summary": "Provides a preview for upcoming Azure NetApp Files (ANF) features.",
                     "version": "0.3.1"
                 },
-                "sha256Digest": "decd251085358aff83480110810c344c70fa5eb9b2fee1ca432283b33b3cb3af"
+                "sha256Digest": "f49d6b177824e0d857a2b6dfed3c26168ed281a37d56e4fb294ae59a640bf25b"
             }
         ],
         "privatedns": [
