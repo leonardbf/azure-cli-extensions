@@ -1708,7 +1708,7 @@
                     "summary": "Provides a preview for upcoming Azure NetApp Files (ANF) features.",
                     "version": "0.3.1"
                 },
-                "sha256Digest": "f49d6b177824e0d857a2b6dfed3c26168ed281a37d56e4fb294ae59a640bf25b"
+                "sha256Digest": "5c7db0caa6616c0a11ed3e9a3beb6ee3cf0a8c84aca057cd8ffd9733469be042"
             }
         ],
         "privatedns": [
