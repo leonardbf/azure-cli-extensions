@@ -1657,10 +1657,11 @@
         ],
         "netappfiles-preview": [
             {
-                "downloadUrl": "https://anfclipython.blob.core.windows.net/cli-extensions/netappfiles_preview-0.2.0-py2.py3-none-any.whl",
-                "filename": "netappfiles_preview-0.2.0-py2.py3-none-any.whl",
+                "downloadUrl": "https://anfclipython.blob.core.windows.net/cli-extensions/netappfiles_preview-0.3.1-py2.py3-none-any.whl",
+                "filename": "netappfiles_preview-0.3.1-py2.py3-none-any.whl",
                 "metadata": {
                     "azext.isPreview": true,
+                    "azext.maxCliCoreVersion": "2.0.66",
                     "azext.minCliCoreVersion": "2.0.56",
                     "classifiers": [
                         "Development Status :: 4 - Beta",
@@ -1705,9 +1706,9 @@
                         }
                     ],
                     "summary": "Provides a preview for upcoming Azure NetApp Files (ANF) features.",
-                    "version": "0.2.0"
+                    "version": "0.3.1"
                 },
-                "sha256Digest": "e24e3093b7add97f6ee889eeeb953126eebf62d83dd1a4d08ead8d383c3f18fc"
+                "sha256Digest": "5c7db0caa6616c0a11ed3e9a3beb6ee3cf0a8c84aca057cd8ffd9733469be042"
             }
         ],
         "privatedns": [
